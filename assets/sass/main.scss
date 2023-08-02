@@ -38,6 +38,7 @@
 		@include color-table($p);
 		@include color-pagination($p);
 	}
+	
 
 // Base.
 
@@ -69,3 +70,5 @@
 	@import 'layout/main';
 	@import 'layout/footer';
 	@import 'layout/navPanel';
+
+	
